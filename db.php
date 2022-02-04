@@ -17,7 +17,7 @@ $auto_usate = [
         "localita" => "torino",
         "trazione" => "null",
         "targa" => "null",
-        "immagine" => "url peugeot"   
+        "immagine" => "https://cdn.miacar.it/thumbs/vehicle-gallery-800x560/cars/PEUGEOT/208/BlueHDI_75_5p_Allure/Nero_Perla/8CVTJ/1.png"   
     ],
     [
         "id" => 2,
@@ -35,7 +35,7 @@ $auto_usate = [
         "localita" => "roma",
         "trazione" => "anteriore",
         "targa" => "ab123gv",
-        "immagine" => "url bmw"   
+        "immagine" => "https://prod.pictures.autoscout24.net/listing-images/fcee5d12-a521-4710-8bd0-a1704ad9788b_be3a58b7-9c03-4906-a354-75af87ddba81.jpg/640x480.jpg"   
     ],
     [
         "id" => 3,
@@ -53,7 +53,7 @@ $auto_usate = [
         "localita" => "roma",
         "trazione" => "posteriore",
         "targa" => "null",
-        "immagine" => "url fiat"   
+        "immagine" => "https://www.fiat.it/content/dam/fiat/cross/models/500-family-2020/500-Sport/Exteriors/Mobile/500-sport-sporty-details-mobile-288x220.jpg"   
     ],
     [
         "id" => 4,
@@ -71,7 +71,7 @@ $auto_usate = [
         "localita" => "cagliari",
         "trazione" => "null",
         "targa" => "ab123vg",
-        "immagine" => "url ford"   
+        "immagine" => "https://www.fordauthos.it/images/vehicles/3472431/0/large"   
     ],
     [
         "id" => 5,
@@ -89,7 +89,7 @@ $auto_usate = [
         "localita" => "palermo",
         "trazione" => "anteriore",
         "targa" => "sd345gi",
-        "immagine" => "url mustang"   
+        "immagine" => "https://upload.wikimedia.org/wikipedia/it/6/60/FordMustang6genItalia.JPG"   
     ],
     [
         "id" => 6,
@@ -107,7 +107,7 @@ $auto_usate = [
         "localita" => "padova",
         "trazione" => "null",
         "targa" => "ag378ik",
-        "immagine" => "url vw"   
+        "immagine" => "https://cdn.miacar.it/thumbs/vehicle-gallery-800x560/cars/VOLKSWAGEN/POLO/1_0_TSI_5p__Comfortline_BMT/Nero_Perla/SNBPS/1.png"   
     ],
 ]
 
